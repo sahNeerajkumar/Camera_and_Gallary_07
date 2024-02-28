@@ -39,6 +39,13 @@
         android:text="Gallery"
         android:textSize="20dp"
         tools:ignore="HardcodedText,SpUsage" />
+    <Button
+        android:id="@+id/gallery_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gallery"
+        android:textSize="20dp"
+        tools:ignore="HardcodedText,SpUsage" />
 
 
 </LinearLayout>
